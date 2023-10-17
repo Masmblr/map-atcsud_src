@@ -1,0 +1,29 @@
+atcsud/sparks
+{
+	ejector
+	{
+		particle
+		{
+			shader sync textures/atcsud/sparks
+			displacement 0 0 0 ~10.0
+			cullOnStartSolid
+			velocityType	static
+			velocityDir	linear
+			velocityMagnitude	3
+			velocity	0 0 1 ~2
+			accelerationType	static
+			accelerationDir	linear
+			acceleration	0 0 1 ~20
+			accelerationMagnitude 	5
+			radius	2000 4 1
+			alpha	7000 1 .5
+			rotation	0 0 ~360
+			bounce	cull
+			lifeTime 6000
+		}
+		count infinite
+		delay 1
+		period 100 - ~0%
+	}
+}
+
