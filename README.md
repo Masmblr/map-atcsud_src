@@ -19,10 +19,10 @@ Map Description:
 [<img src="meta/preview_levelshots/6.jpg" width="250"/>](meta/preview_levelshots/6.jpg)
 
 ## Version History:
-| Version: | Date:        | Status: | Release Build (.pk3):       
-| ------- | ------------- | ------: | -----------------: |
-| 1.0     | 28/12/2014  | beta | :x:        |     
-| 2.0     | 12/01/2015  | final | [💾](https://github.com/Masmblr/map-ATCSUD_src/releases/) |
+| Version: | Date:        | Status: |
+| ------- | ------------- | ------: |
+| 1.0     | 28/12/2014  | beta |
+| 2.0     | 12/01/2015  | release |
 
 ## How-To
 **Binary**:
@@ -127,7 +127,7 @@ textures\atcsud\sparks.jpg <sup>[1](#Credit-1)</sup>
 ***
 
 ### Credit-1
-[Matthias "Masmblr Peters"](mailto:masmblr@gmail.com) \
+[Matthias "Masmblr" Peters](mailto:masmblr@gmail.com) \
 Content: Map, Textures, Shaders \
 License: [MIT License](https://opensource.org/license/mit/).
 (See "LICENSE" file for more Informations.)
